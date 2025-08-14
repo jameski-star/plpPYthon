@@ -10,4 +10,4 @@ list_2 =[50,60,70]
 my_list.extend(list_2)
 my_list.pop()
 my_list.sort()
-print my_list.index(30)
+print(my_list.index(30))
